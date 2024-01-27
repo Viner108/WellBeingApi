@@ -1,4 +1,4 @@
-package userHealth;
+package com.mkyong.controller;
 
 public class UserHealthDto {
     private Long id;
