@@ -1,0 +1,9 @@
+<settings>
+    <servers>
+        <server>
+            <id>nexus-snapshorts</id>
+            <username>admin</username>
+            <password>viner30032002</password>
+        </server>
+    </servers>
+</settings>
